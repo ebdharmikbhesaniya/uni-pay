@@ -1,0 +1,32 @@
+{
+  "name": "uni-pay",
+  "version": "1.0.0",
+  "description": "universal payment gateway npm package",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebdharmikbhesaniya/uni-pay.git"
+  },
+  "keywords": [
+    "npm",
+    "payment",
+    "gateway",
+    "uni-pay",
+    "pay"
+  ],
+  "author": "dharmik bhesaniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebdharmikbhesaniya/uni-pay/issues"
+  },
+  "homepage": "https://github.com/ebdharmikbhesaniya/uni-pay#readme",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
